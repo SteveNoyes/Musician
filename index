@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Shane</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="assets/css/Map-Clean.css">
+    <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <div>
+        <nav class="navbar navbar-light navbar-expand-md navigation-clean">
+            <div class="container"><a class="navbar-brand" href="#" data-bs-hover-animate="bounce" style="font-size:37px;"><span style="text-decoration: underline;">Michael Shane</span></a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                <div
+                    class="collapse navbar-collapse" id="navcol-1">
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="index.html">Home</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#about">About</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#upcoming">Upcoming Shows</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#contact" style="padding:8px 18px;">Contact</a></li>
+                    </ul>
+            </div>
+    </div>
+    </nav>
+    </div>
+    <div class="row">
+        <div class="col"><img class="img-fluid d-block" src="assets/img/yesterdaysNews.jpg" style="margin-left:auto;margin-right:auto;"></div>
+    </div>
+    <div class="row"></div>
+    <h1 class="text-center" id="about" style="height:129px;margin-top:100px;">About Me</h1>
+    <div class="col"><img class="img-fluid d-block" src="assets/img/mshane1.jpg" style="margin-left:auto;margin-right:auto;width:339px;"></div>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp;As a graduate of the prestigious high school of Performing Arts in New York City, and the Peabody Conservatory of Music in Baltimore, Michael’s career has, to date, consisted of music, humor, theater, recording, and lots
+        of charity work on both coasts. &nbsp;<br></p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp;Michael is a veteran of thousands of musical performances for special events, concerts and countless appearances as an emcee and comic. His collaboration with the New York Daily News included dozens of shows at media events,
+        at which his “midnight jam show,” would share the stage with the likes of Meatloaf, Kool&nbsp;and the Gang, Gypsy Kings, Tower of Power and Gloria Gaynor.&nbsp;<br></p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp;In addition, Michael’s hundreds of performances on college campuses, all over the country, with the New York City Swing Band, and in 1986 was named, “College Band of the Year.” &nbsp;During this time his ballroom dance band,
+        “The Musicmen,” appeared in the movie, “The Tempest,” starring John Cassavetes and Susan Sarandon. while in New York, Shane performed at nearly all the high profile hotels, either as a soloist or at numerous special events.<br></p>
+    <div class="row">
+        <div class="col"><img class="img-fluid d-block" src="assets/img/mshane2.jpg" style="margin-left:auto;margin-right:auto;width:342px;"></div>
+    </div>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp;As a musician, Michael is accomplished on piano, guitar, saxophone, clarinet, and drums, and is extensively trained in composition, and arranging, having studied privately with Don Sebesky, and Bob Brookmeyer. the music
+        of Frank Sinatra, Ella Fitzgerald, Fred Astaire, Dean Martin, Tony Bennett, and Bobby Darin are among his favorites, singing the hits and some rare songs, with equal skill. And don’t be surprised when he tosses in an Elvis, the Beatles, Elton
+        John, Billy Joel, Carole King, or Ray Charles, utilizing the music from the wonderful American songbook.<br></p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp;Michael’s comedy skill has been featured hundreds of times over the years at some of the top comedy clubs in the nation, along with some of the greats of improvisation, both as a musical funnyman, or as master of ceremonies.
+        he has performed with the likes of Ray Romano, Dave Chappelle, Dave Atell, Mark Marin and Jon Stewart.<br></p>
+    <div class="row">
+        <div class="col"><img class="img-fluid d-block" src="assets/img/mShane.jpg" style="margin-left:auto;margin-right:auto;height:424px;width:315px;"></div>
+    </div>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp;Michael Shane moved to Las Vegas in 1995, where he quickly became well known as a&nbsp;bandleader and an entertainer on the Las Vegas Strip. &nbsp;His Metropolitan Club Orchestra, (retro Vegas style big band show), has performed
+        for nine-years running at the the LVH VIP New Year’s Gala Event, and has also forged a relationship with the Station Casinos, for a series of shows dedicated to child haven, and the challenges faced by local foster care in Clark County.<br></p>
+    <div
+        class="row">
+        <div class="col"><img class="img-fluid d-block" src="assets/img/piano.jpg" style="height:288px;margin-right:auto;margin-left:auto;margin-top:105px;margin-bottom:86px;"></div>
+        </div>
+        <div class="intro">
+            <h2 class="text-center" id="upcoming">Upcoming Events</h2>
+            <p class="text-center" style="margin-top:42px;margin-bottom:71px;">.<a href="https://www.facebook.com/michael.shane.944?ref=br_tf" style="color:rgb(0,0,0);">Follow me on Facebook to see all my shows.<br></a></p>
+        </div>
+        <div class="contact-clean"><iframe allowfullscreen="" frameborder="0" width="100%" height="450" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDaEw6o8OhJvRQnTF3gI_tibMejtfasOlY&amp;q=las+vegas%2C+nv&amp;zoom=15"></iframe>
+            <form method="post" id="contact" style="margin-top:125px;margin-bottom:146px;">
+                <h2 class="text-center" data-bs-hover-animate="flash">Contact me</h2>
+                <div class="form-group"><input class="form-control" type="text" name="name" placeholder="Name"></div>
+                <div class="form-group"><input class="form-control is-invalid" type="email" name="email" placeholder="Email"><small class="form-text text-danger">Please enter a correct email address.</small></div>
+                <div class="form-group"><textarea class="form-control" rows="14" name="message" placeholder="Message"></textarea></div>
+                <div class="form-group"><button class="btn btn-primary" type="submit">send </button></div>
+            </form>
+        </div>
+        <div class="map-clean"></div>
+        <div class="footer-dark">
+            <footer>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-3 item">
+                            <h3></h3>
+                            <ul></ul>
+                        </div>
+                        <div class="col-md-6 item text">
+                            <h3>Michael Shane</h3>
+                            <p>Las Vegas Musician</p>
+                        </div>
+                        <div class="col item social"><a href="https://www.facebook.com/michael.shane.944?ref=br_tf"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+                    </div>
+                    <p class="copyright">Michael Shane © 2018</p>
+                </div>
+            </footer>
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bs-animation.js"></script>
+</body>
+
+</html>
